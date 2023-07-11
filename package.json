@@ -1,0 +1,17 @@
+{
+  "name": "tb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scss": "node-sass -w scss / -o css/ -r"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap-icons": "^1.10.5",
+    "mdb-ui-kit": "^6.4.0",
+    "node-sass": "^9.0.0"
+  }
+}
